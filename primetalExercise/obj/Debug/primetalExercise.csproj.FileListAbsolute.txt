@@ -1,0 +1,7 @@
+E:\Skolla\Östra\uppgifter\20210113\primtal\primetalExercise\bin\Debug\primetalExercise.exe.config
+E:\Skolla\Östra\uppgifter\20210113\primtal\primetalExercise\bin\Debug\primetalExercise.exe
+E:\Skolla\Östra\uppgifter\20210113\primtal\primetalExercise\bin\Debug\primetalExercise.pdb
+E:\Skolla\Östra\uppgifter\20210113\primtal\primetalExercise\obj\Debug\primetalExercise.csprojAssemblyReference.cache
+E:\Skolla\Östra\uppgifter\20210113\primtal\primetalExercise\obj\Debug\primetalExercise.csproj.CoreCompileInputs.cache
+E:\Skolla\Östra\uppgifter\20210113\primtal\primetalExercise\obj\Debug\primetalExercise.exe
+E:\Skolla\Östra\uppgifter\20210113\primtal\primetalExercise\obj\Debug\primetalExercise.pdb
